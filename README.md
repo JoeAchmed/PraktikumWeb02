@@ -1,5 +1,5 @@
 # PraktikumWeb02
 
-*Nama: Ahmad Waluyo
-*Kelas: TI15
-*NIM: 0110222291
+Nama: Ahmad Waluyo<br/>
+Kelas: TI15<br/>
+NIM: 0110222291
