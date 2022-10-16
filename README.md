@@ -1,4 +1,4 @@
-# PraktikumWeb02
+# PraktikumWeb
 
 Nama: Ahmad Waluyo<br/>
 Kelas: TI15<br/>
